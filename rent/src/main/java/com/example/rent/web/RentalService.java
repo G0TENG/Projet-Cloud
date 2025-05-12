@@ -21,7 +21,7 @@ public class RentalService {
         cars.add(car);
         car = new Car("Peugeot", 500);
         cars.add(car);
-        car = new Car("Opel", 500);
+        car = new Car("Renault", 500);
         cars.add(car);
     }
 
